@@ -1,0 +1,2 @@
+_extends: .github
+tag-template: control-build-queue-$NEXT_MINOR_VERSION
